@@ -1,0 +1,122 @@
+<item>
+	<title>Encerramento da segunda edição do CEFET Summer of Code</title>
+	<link>http://pythonrio.org/encerramento-da-segunda-edicao-do-cefet-summe</link>
+	<pubDate>Fri Aug 07 11:27:00 -0700 2009</pubDate>
+	
+	<dc:creator><![CDATA[email]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://pythonrio.org/encerramento-da-segunda-edicao-do-cefet-summe</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Ontem tivemos a comemora&ccedil;&atilde;o do encerramento de mais um <a href="http://groups.google.com.br/group/CSoC" target="_blank">curso de Python</a> no <a href="http://www.cefet-rj.br/" target="_blank">CEFET/RJ</a>! Abaixo descrevo em maiores detalhes as 8 aulas que tivemos durante os meses de julho e agosto.<p /> Inicialmente, as f&eacute;rias de julho me pareceram muito curtas para a realiza&ccedil;&atilde;o do curso, mas, ap&oacute;s o incentivo de alguns membros da <a href="http://pythonrio.org/" target="_blank">PythOnRio</a>, decidi que valia a pena tentar.<p /> A divulga&ccedil;&atilde;o foi feita mais uma vez por e-mail, dessa vez contando com a ajuda de alguns amigos para espalhar a not&iacute;cia. O n&uacute;mero de pessoas atingidas foi bom, e conseguimos um qu&oacute;rum razo&aacute;vel. Ao mesmo tempo, entrei em contato com o coordenador da COLAN, o laborat&oacute;rio que usamos no come&ccedil;o do ano, e ele disse que eles estariam em manuten&ccedil;&atilde;o nas f&eacute;rias, mas que era poss&iacute;vel conciliar.<p /> A <a href="http://csoc.googlegroups.com/web/aula01.pdf?gda=VGvZdT8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4RG8yhHBg4TnTQTes5IT3BFBzwIP9m7S-GycXvhYbIhV" target="_blank">primeira aula</a> come&ccedil;ou com um atraso de quase uma hora, devido a alguns imprevistos na manuten&ccedil;&atilde;o do laborat&oacute;rio, mas correu bem. Cerca de 10 alunos aprenderam sobre conceitos b&aacute;sicos de programa&ccedil;&atilde;o usando a linguagem C.<p /> Na <a href="http://csoc.googlegroups.com/web/aula02.pdf?gda=xB84lj8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4Xz4rCiuhzdh2vQ6weQp6R9BzwIP9m7S-GycXvhYbIhV" target="_blank">segunda aula</a> tamb&eacute;m tivemos problemas com o laborat&oacute;rio, e mais uma vez come&ccedil;amos bem atrasados. A surpresa foi o n&uacute;mero de participantes: 18! Novo recorde! Sem cadeiras sobrando, vimos conceitos de orienta&ccedil;&atilde;o a objetos usando a linguagem C++. Vale ressaltar a presen&ccedil;a do nosso amigo <a href="http://mudadeideia.com.br/" target="_blank">Israel Teixeira</a>, que apareceu para dar uma for&ccedil;a!<p /> Nesse mesmo dia, decidi experimentar <a href="http://improveit.com.br/xp/praticas/programacao_par" target="_blank">Programa&ccedil;&atilde;o em Pares</a> com os alunos, visando aumentar a concentra&ccedil;&atilde;o, diminuir erros de sintaxe e integrar a turma. Comparando os resultados com os da primeira edi&ccedil;&atilde;o,  a t&eacute;cnica se mostrou muito eficiente, e por isso a adotamos durante o restante do curso.<p /> Na <a href="http://csoc.googlegroups.com/web/aula04.pdf?gda=ucqZkD8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4T6R428JY7X3Kqb3dO9l3dhBzwIP9m7S-GycXvhYbIhV" target="_blank">terceira aula</a> come&ccedil;amos a ver <a href="http://www.python.org/" target="_blank">Python</a> (ufa!). Usando a vers&atilde;o <a href="http://www.python.org/download/releases/3.1/" target="_blank">3.1</a> -- rec&eacute;m sa&iacute;da do forno -- vimos os conceitos b&aacute;sicos da linguagem e fizemos um comparativo com o que t&iacute;nhamos visto em C.<p /> Na <a href="http://csoc.googlegroups.com/web/aula05.pdf?gda=qDF8BD8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4TG-C7qu5DTx_HJGpCTE7plBzwIP9m7S-GycXvhYbIhV" target="_blank">quarta aula</a> vimos os conceitos de <em>strings</em>, listas, tuplas e dicion&aacute;rios.<p /> A <a href="http://csoc.googlegroups.com/web/aula06.pdf?gda=Vc95uj8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4USww9-p4NG3_Gq3d0lQ-N5BzwIP9m7S-GycXvhYbIhV" target="_blank">quinta aula</a> apresentou orienta&ccedil;&atilde;o a objetos em Python, comparando com o que t&iacute;nhamos visto em C++.<p /> Na <a href="http://csoc.googlegroups.com/web/aula07.pdf?gda=gQKw2z8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4W_AqeVF_gjp9GOx8nsbGU9BzwIP9m7S-GycXvhYbIhV" target="_blank">sexta aula</a> falamos sobre boas pr&aacute;ticas de codifica&ccedil;&atilde;o e vimos como usar o Python para obter ajuda. Al&eacute;m disso, foram apresentados alguns m&oacute;dulos da biblioteca padr&atilde;o.<p /> Na reta final do curso, a id&eacute;ia era que os alunos aprendessem a se virar sozinhos. Desse modo, na <a href="http://csoc.googlegroups.com/web/aula08.pdf?gda=R4XH7z8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4RRmjhk8dlKQB_hv6EhuqjJBzwIP9m7S-GycXvhYbIhV" target="_blank">s&eacute;tima aula</a> vimos como interpretar e tratar os erros e exce&ccedil;&otilde;es em Python, al&eacute;m de mais alguns m&oacute;dulos da biblioteca padr&atilde;o.<p /> A <a href="http://csoc.googlegroups.com/web/aula09.pdf?gda=StYscT8AAAC-0FnWnZgMZ-H3Idgilq_bwHNINbAnQQWm4u2FrfqE4eF6xLgtnmywZXZ-JNRJqf9BzwIP9m7S-GycXvhYbIhV" target="_blank">oitava e &uacute;ltima aula</a> foi a cereja no bolo. Falamos sobre t&oacute;picos avan&ccedil;ados, incluindo programa&ccedil;&atilde;o funcional, heran&ccedil;a m&uacute;ltipla e sobrecarga de operadores.<p /> Infelizmente o n&uacute;mero de participantes foi diminuindo ao longo das aulas, e no &uacute;ltimo dia tivemos s&oacute; 4 presentes (al&eacute;m de 2 participantes da primeira edi&ccedil;&atilde;o, que compareceram e participaram da grande maioria das aulas). No geral, tivemos uma m&eacute;dia de 6 a 8 alunos que compareceram &agrave;s aulas com regularidade.<p /> Para a pr&oacute;xima edi&ccedil;&atilde;o, vejo que podemos fazer algumas melhorias:</p>
+<ul>
+<li>Fazer a divulga&ccedil;&atilde;o mais <em>t&ecirc;te-&agrave;-t&ecirc;te</em> e menos virtual. Isso pode ajudar a diminuir o n&uacute;mero de "curiosos", e a identificar aqueles que realmente tem interesse em participar;</li>
+<li>Aproveitar <a href="http://henriquebastos.net/2009/08/02/dinamica-para-mini-cursos-de-python/" target="_blank">algumas id&eacute;ias do Henrique Bastos</a> e fazer um mapeamento de expectativas no primeiro dia, e uma se&ccedil;&atilde;o de <em>feedback</em> no &uacute;ltimo. </li>
+<li>Planejar o uso do laborat&oacute;rio com maior anteced&ecirc;ncia, para evitar alguns dos problemas que tivemos com infraestrutura.</li>
+<li>Analisar a viabilidade de conseguirmos um <em>datashow</em> para usarmos na aula, o que pode ajudar muito (atualmente estamos usando o quadro branco).</li>
+</ul>
+<p>Nos dois &uacute;ltimos dias, levei uma vers&atilde;o do <a href="http://www.portablepython.com/" target="_blank">PortablePython</a> e mostrei informalmente o <a href="http://ipython.scipy.org/" target="_blank">IPython</a> e o m&oacute;dulo <a href="http://www.scipy.org/" target="_blank">Scipy</a>. Todos gostaram da id&eacute;ia de realizarmos um [mini]curso de Python para computa&ccedil;&atilde;o cient&iacute;fica (leia-se: "Python ao inv&eacute;s de Matlab").<p /> Mesmo com pouca gente, ao final do curso fomos comemorar no Pizza e Grill da Tijuca (veja as fotos abaixo).</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile3.posterous.com/getfile/files.posterous.com/pythonrio/ni79u4i8TfMO35i5dTHpIBRPSX3vukMVaILvn6YE0UXtlzaaoDAgGdpm85kl/CSoC-2_01.jpg"><img alt="Csoc-2_01" src="http://getfile3.posterous.com/getfile/files.posterous.com/pythonrio/ni79u4i8TfMO35i5dTHpIBRPSX3vukMVaILvn6YE0UXtlzaaoDAgGdpm85kl/CSoC-2_01.jpg" /></a>
+<a href="http://getfile6.posterous.com/getfile/files.posterous.com/pythonrio/4M1AlAbmxrUgmYaN3rUuinhQ8A2p6J5FHzsoKtu6SO4STlZCOlIcO5wcsJar/CSoC-2_02.jpg"><img alt="Csoc-2_02" src="http://getfile6.posterous.com/getfile/files.posterous.com/pythonrio/4M1AlAbmxrUgmYaN3rUuinhQ8A2p6J5FHzsoKtu6SO4STlZCOlIcO5wcsJar/CSoC-2_02.jpg" /></a>
+<a href="http://getfile9.posterous.com/getfile/files.posterous.com/pythonrio/ChW2mBLbCloTJExrZsk01TmQEyGFDcQSUAn3EsisR10S41SHv9ISAHyvnC1T/CSoC-2_03.jpg"><img alt="Csoc-2_03" src="http://getfile9.posterous.com/getfile/files.posterous.com/pythonrio/ChW2mBLbCloTJExrZsk01TmQEyGFDcQSUAn3EsisR10S41SHv9ISAHyvnC1T/CSoC-2_03.jpg" /></a>
+<a href="http://getfile2.posterous.com/getfile/files.posterous.com/pythonrio/Fl0kRuN8ESm3OQV9qeQrL8C57XH6olfZMOyLsloBCYfD2G1zUEede7gyUiKA/CSoC-2_04.jpg"><img alt="Csoc-2_04" src="http://getfile2.posterous.com/getfile/files.posterous.com/pythonrio/Fl0kRuN8ESm3OQV9qeQrL8C57XH6olfZMOyLsloBCYfD2G1zUEede7gyUiKA/CSoC-2_04.jpg" /></a>
+<a href="http://getfile5.posterous.com/getfile/files.posterous.com/pythonrio/9rtVu9pUtfr2Rqre1WB7kBKaDUk4e3YzW1XUNwZGiYS7XjUUzcSwG0SCrl2o/CSoC-2_05.jpg"><img alt="Csoc-2_05" src="http://getfile5.posterous.com/getfile/files.posterous.com/pythonrio/9rtVu9pUtfr2Rqre1WB7kBKaDUk4e3YzW1XUNwZGiYS7XjUUzcSwG0SCrl2o/CSoC-2_05.jpg" /></a>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/pythonrio/WBxiZgYp1CgR3EXT25fDDI7paWD1EOAyYm5hZEOMAEjH7jWREFiJTwKajYT1/CSoC-2_06.jpg"><img alt="Csoc-2_06" src="http://getfile8.posterous.com/getfile/files.posterous.com/pythonrio/WBxiZgYp1CgR3EXT25fDDI7paWD1EOAyYm5hZEOMAEjH7jWREFiJTwKajYT1/CSoC-2_06.jpg" /></a>
+<a href="http://getfile1.posterous.com/getfile/files.posterous.com/pythonrio/aEhREAZEgy2961TNYVXPphnfhKTPMb5FqFSdYvDRHBsvZOvVmyCTtcV5h9l9/CSoC-2_07.jpg"><img alt="Csoc-2_07" src="http://getfile1.posterous.com/getfile/files.posterous.com/pythonrio/aEhREAZEgy2961TNYVXPphnfhKTPMb5FqFSdYvDRHBsvZOvVmyCTtcV5h9l9/CSoC-2_07.jpg" /></a>
+<a href="http://getfile4.posterous.com/getfile/files.posterous.com/pythonrio/GwfyXuPRFQpHPn2UuIRY0AQcdBKyrKUb2B9cqbk0dRERclSQjMJ1XxHMZ9Yf/CSoC-2_08.jpg"><img alt="Csoc-2_08" src="http://getfile4.posterous.com/getfile/files.posterous.com/pythonrio/GwfyXuPRFQpHPn2UuIRY0AQcdBKyrKUb2B9cqbk0dRERclSQjMJ1XxHMZ9Yf/CSoC-2_08.jpg" /></a>
+<a href="http://getfile7.posterous.com/getfile/files.posterous.com/pythonrio/EP0YRTQHlYDlZyPZvjTvv66NEd7rPErm2NkMEkhLZpvrxSczZOCkt7gmjnWR/CSoC-2_09.jpg"><img alt="Csoc-2_09" src="http://getfile7.posterous.com/getfile/files.posterous.com/pythonrio/EP0YRTQHlYDlZyPZvjTvv66NEd7rPErm2NkMEkhLZpvrxSczZOCkt7gmjnWR/CSoC-2_09.jpg" /></a>
+</div>
+</p>
+<p>E que venha o pr&oacute;ximo!<p />Um abra&ccedil;o,<br /><span style="color: #888888;">Alex Tercete</span></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Ontem tivemos a comemoração do encerramento de mais um curso de Python no CEFET/RJ! Abaixo descrevo em maiores detalhes as 8 aulas que tivemos durante os meses de julho e agosto. Inicialmente, as férias de julho me pareceram muito curtas para a...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Aug 07 11:27:00 -0700 2009</wp:post_date>
+	<wp:post_date_gmt>Fri Aug 07 11:27:00 -0700 2009</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>1861784</wp:post_id>
+	<wp:post_name>encerramento-da-segunda-edicao-do-cefet-summe</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<wp:comment_id>550689</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Luiz Guilherme Aldabalde]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
+			<wp:comment_date>Fri Aug 07 12:14:29 -0700 2009</wp:comment_date>
+			<wp:comment_date_gmt>Fri Aug 07 12:14:29 -0700 2009</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Muito bom , Alex !!
+
+ Parabéns !!
+
+Ações com esta é que fazem a diferença.
+
+Cada um faz uma parte e daí vêm a força do nosso grupo. 
+
+Mais uma vez,  parabéns pelo esforço de todos envolvidos.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<wp:comment_id>552821</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Henrique Bastos]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://henriquebastos.net]]></wp:comment_author_url>
+			
+			<wp:comment_date>Sat Aug 08 05:57:28 -0700 2009</wp:comment_date>
+			<wp:comment_date_gmt>Sat Aug 08 05:57:28 -0700 2009</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Excelente!
+Inspirador esse relato! Parabéns Alex e todo o pessoal que participou desta iniciativa. Fica desde já o convite para conhecerem o DojoRio e todas as nossas outras reuniões.
+[]'s!!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<wp:comment_id>553394</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Rodolfo Carvalho]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://lifeatmymind.blogspot.com]]></wp:comment_author_url>
+			
+			<wp:comment_date>Sat Aug 08 11:03:11 -0700 2009</wp:comment_date>
+			<wp:comment_date_gmt>Sat Aug 08 11:03:11 -0700 2009</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Parabéns Alex! Excelente curso, que venham os próximos.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<wp:comment_id>638040</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Sérgio Lima]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://sergioflima.pro.br]]></wp:comment_author_url>
+			
+			<wp:comment_date>Sun Aug 23 11:53:09 -0700 2009</wp:comment_date>
+			<wp:comment_date_gmt>Sun Aug 23 11:53:09 -0700 2009</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Quando será o próximo curso? Tô super-afim de fazer.
+
+
+abs]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

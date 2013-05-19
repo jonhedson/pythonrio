@@ -1,0 +1,33 @@
+<item>
+	<title>Lançada nova versão da implementação otimizada do Python do Google</title>
+	<link>http://pythonrio.org/lancada-nova-versao-da-implementacao-otimizad</link>
+	<pubDate>Wed Jul 15 07:28:47 -0700 2009</pubDate>
+	
+	<dc:creator><![CDATA[PythOnRio]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://pythonrio.org/lancada-nova-versao-da-implementacao-otimizad</guid>
+	<description></description>
+	<content:encoded><![CDATA[<div>O dia começou bem com a notícia da nova versão&nbsp;<a href="http://code.google.com/p/unladen-swallow/wiki/Release2009Q2">2009Q2</a>&nbsp;do&nbsp;<a href="http://code.google.com/p/unladen-swallow/">Unladen Swallow</a>, projeto de&nbsp;<a href="http://pt.wikipedia.org/wiki/Software_livre">Software Livre</a>&nbsp;patrocinado e liderado pelo Google.</div><p /><div>O projeto é uma implementação acelerada do&nbsp;<a href="http://www.python.org">Python</a>. E esta versão é a primeira a utilizar&nbsp;<a href="http://llvm.org/">LLVM</a>&nbsp;para compilar funções&nbsp;<a href="http://www.python.org">Python</a>&nbsp;para código de máquina.&nbsp;</div><p /><div>Esta versão ainda não é recomendada para uso em produção, mas os resultados já indicam que o desenvolvimento está no caminho certo. O&nbsp;<a href="http://code.google.com/p/unladen-swallow/wiki/Release2009Q2">Unladen Swallow 2009Q2</a>&nbsp;passa com sucesso em todos os testes de bibliotecas e ferramentas externas ao&nbsp;<a href="http://www.python.org">Python</a>&nbsp;listadas em na&nbsp;<a href="http://code.google.com/p/unladen-swallow/wiki/Testing">Página de Testes</a>, resultando em compatibilidade com projetos como&nbsp;<a href="http://twistedmatrix.com">Twisted</a>,&nbsp;<a href="http://www.djangoproject.com/">Django</a>,&nbsp;<a href="http://numpy.scipy.org/">NumPy</a>&nbsp;e&nbsp;<a href="http://www.swig.org/">Swig</a>.</div><p /><div><div> <div style=""><div style=""><div>[]'s,&nbsp;<a href="http://henriquebastos.net" style="text-decoration: none;">Henrique Bastos</a></div></div></div></div></div>]]></content:encoded>
+	<excerpt:encoded><![CDATA[O dia começou bem com a notícia da nova versão 2009Q2 do Unladen Swallow, projeto de Software Livre patrocinado e liderado pelo Google.O projeto é uma implementação acelerada do Python. E esta versão é a primeira a utilizar LLVM para compilar funç...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Jul 15 07:28:47 -0700 2009</wp:post_date>
+	<wp:post_date_gmt>Wed Jul 15 07:28:47 -0700 2009</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>1469967</wp:post_id>
+	<wp:post_name>lancada-nova-versao-da-implementacao-otimizad</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
